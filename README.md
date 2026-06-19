@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ulisses Dantas
 
-<!--
-**ulisses-dantas/ulisses-dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer focused on TypeScript, NestJS, applied AI, workflow automation, and systems architecture.
 
-Here are some ideas to get you started:
+I build practical software systems with emphasis on clarity, maintainability, automation, and human-in-the-loop decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Backend engineering with TypeScript and NestJS
+- Modular monorepos and domain-oriented architecture
+- Applied AI for workflow automation
+- Software architecture and engineering productivity
+- Systems for learning, execution, and personal operations
+
+## Current direction
+
+I am building public technical labs to demonstrate backend architecture, AI-assisted workflows, automation, and scalable software design.
+
+## Public labs
+
+Coming soon:
+
+- `backend-architecture-lab`
+- `agentic-workflow-lab`
+- `software-engineering-notes`
+- `vyrnexor-devlog`
+
+## Principles
+
+- Simple systems beat complex systems
+- Human review before automation
+- Small pull requests
+- Clear documentation
+- No company code, no private business rules
