@@ -23,7 +23,6 @@ Coming soon:
 - `backend-architecture-lab`
 - `agentic-workflow-lab`
 - `software-engineering-notes`
-- `vyrnexor-devlog`
 
 ## Principles
 
